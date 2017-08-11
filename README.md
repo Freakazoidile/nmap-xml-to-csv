@@ -6,7 +6,7 @@
 - 0.2
 		- Rearrange columns and add end time column into output csv.
 - 0.3 
-    - Change some things as it was kind of wonky before.
+		- Change some things as it was kind of wonky before.
 
 ### How to use
 1. Normal usage for display result
